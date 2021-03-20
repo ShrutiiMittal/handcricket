@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-
+#include<windows.h>
  int main() 
  {
      int number, score_comp=0,score_human=0,run;
